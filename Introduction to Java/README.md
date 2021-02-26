@@ -2,11 +2,8 @@
 
 
 # About this Course
-This Course is the first of a series of courses that make up the Core Java Specialization.  The Core Java Specialization, in turn, is part of a series of programming specializations, derived from LearnQuest's private Java Bootcamps, designed to provide the skill set necessary to be hired as an IT developer using Java in many corporate environments.
+This Course is the first of a series of courses that make up the Core Java Specialization.  The Core Java Specialization, in turn, is part of a series of programming specializations, derived from LearnQuest's private Java Bootcamps, designed to provide the skill set necessary to be hired as an IT developer using Java in many corporate environments. This course includes hands-on practice and will give you a solid knowledge of the Java language. After completing this course, you will be able to identify Java’s benefits, program in basic Java syntax using Java data types, and incorporate branches and loops. The audience for this course:
 
-This course includes hands-on practice and will give you a solid knowledge of the Java language. After completing this course, you will be able to identify Java’s benefits, program in basic Java syntax using Java data types, and incorporate branches and loops.
-
-# The audience for this course:
 * Anyone interested in learning Java
 * Programmers
 * Technical Managers
